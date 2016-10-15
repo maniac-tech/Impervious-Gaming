@@ -24,11 +24,11 @@
 				<a href="#" id="pull"><img src="images/nav-icon.png" class="nav"></a>
 					<ul class="clearfix">
 						<li><a href="#">Home</a></li>
-						<li><a href="#">Events</a></li>
-						<li><a href="#">Games</a></li>
-						<li><a href="#">Foram</a></li>
-						<li><a href="#">Profile</a></li>
-						<li><a href="#">Contact</a></li>	
+						<li><a href="events.php">Events</a></li>
+						<li><a href="games.php">Games</a></li>
+						<li><a href="forum.php">Forum</a></li>
+						<li><a href="profile.php">Profile</a></li>
+						<li><a href="contact.php">Contact</a></li>	
 					</ul>
 			</nav>
 		</div>
